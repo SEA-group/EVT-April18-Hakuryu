@@ -1,0 +1,9 @@
+<JGS038_100mm65_Type89_dead.model>
+	<exporter>	1.6	</exporter>
+	<extent>	2.000000	</extent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<parent>	content/gameplay/japan/gun/secondary/JGS593_100mm65_Type89/lods/JGS593_100mm65_Type89_dead_lod1	</parent>
+	<nodefullVisual>	content/gameplay/japan/gun/secondary/JGS593_100mm65_Type89/JGS593_100mm65_Type89_dead	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JGS038_100mm65_Type89_dead.model>

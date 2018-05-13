@@ -1,0 +1,13 @@
+<JAB003_Aichi_B7A.model>
+	<extent>	5.0000	</extent>
+	<parent>	content/gameplay/events/aircraft/bomber/XAB005_Space_Bomber/lods/XAB005_Space_Bomber_lod1	</parent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<visibilityBox>
+		<min>	-0.477183 -0.007005 -0.558219	</min>
+		<max>	0.477183 0.305439 0.207970	</max>
+	</visibilityBox>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	content/gameplay/events/aircraft/bomber/XAB005_Space_Bomber/XAB005_Space_Bomber	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JAB003_Aichi_B7A.model>

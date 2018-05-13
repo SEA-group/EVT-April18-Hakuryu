@@ -1,0 +1,13 @@
+<JD025_Director_Type_94_Mod1.model>
+	<extent>	6.0000	</extent>
+	<parent>	content/gameplay/japan/director/JD584_Director_Type_94_Space/lods/JD584_Director_Type_94_Space_lod1	</parent>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.161031 0.000000 -0.094539	</min>
+		<max>	0.161031 0.181629 0.094539	</max>
+	</visibilityBox>
+	<castsShadow>	false	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	content/gameplay/japan/director/JD584_Director_Type_94_Space/JD584_Director_Type_94_Space	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JD025_Director_Type_94_Mod1.model>

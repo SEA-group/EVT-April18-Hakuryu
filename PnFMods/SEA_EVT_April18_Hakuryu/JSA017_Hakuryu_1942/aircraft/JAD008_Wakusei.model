@@ -1,0 +1,9 @@
+<JAD008_Wakusei.model>
+	<exporter>	1.6	</exporter>
+	<parent>	content/gameplay/events/aircraft/bomber/XAB006_Star_Bomber_Space/lods/XAB006_Star_Bomber_Space_lod1	</parent>
+	<extent>	5.0000	</extent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	content/gameplay/events/aircraft/bomber/XAB006_Star_Bomber_Space/XAB006_Star_Bomber_Space	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JAD008_Wakusei.model>
