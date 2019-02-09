@@ -1,0 +1,8 @@
+<JAB710_Nakajima_C6N5_1b_proto.model>
+	<exporter>	1.6	</exporter>
+	<parent>	content/gameplay/events/aircraft/bomber/XAB705_Space_Bomber_proto/lods/XAB705_Space_Bomber_proto_lod1	</parent>
+	<extent>	2.0000	</extent>
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	content/gameplay/events/aircraft/bomber/XAB705_Space_Bomber_proto/XAB705_Space_Bomber_proto	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JAB710_Nakajima_C6N5_1b_proto.model>

@@ -1,8 +1,0 @@
-<JRS066_Radar_E27_fixed_par.model>
-	<exporter>	1.5	</exporter>
-	<parent>	PnFMods/SEA_EVT_April18_Hakuryu/JSA017_Hakuryu_1942/radar/JRS066_Radar_E27_fixed_par_lod1	</parent>
-	<extent>	2.000000	</extent>
-	<castsShadow>	false	</castsShadow>
-	<nodefullVisual>	PnFMods/SEA_EVT_April18_Hakuryu/JSA017_Hakuryu_1942/radar/JRS066_Radar_E27_fixed_par	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</JRS066_Radar_E27_fixed_par.model>

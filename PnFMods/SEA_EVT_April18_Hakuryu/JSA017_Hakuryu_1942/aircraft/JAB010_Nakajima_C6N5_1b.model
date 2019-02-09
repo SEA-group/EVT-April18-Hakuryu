@@ -1,9 +1,0 @@
-<JAB010_Nakajima_C6N5_1b.model>
-	<castsShadow>	true	</castsShadow>
-	<exporter>	1.6	</exporter>
-	<parent>	content/gameplay/events/aircraft/bomber/XAB006_Star_Bomber_Space/lods/XAB006_Star_Bomber_Space_lod1	</parent>
-	<extent>	5.0000	</extent>
-	<materialNames />
-	<nodefullVisual>	content/gameplay/events/aircraft/bomber/XAB006_Star_Bomber_Space/XAB006_Star_Bomber_Space	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</JAB010_Nakajima_C6N5_1b.model>

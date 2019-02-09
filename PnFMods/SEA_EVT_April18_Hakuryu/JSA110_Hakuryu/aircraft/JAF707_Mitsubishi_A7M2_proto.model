@@ -1,0 +1,8 @@
+<JAF707_Mitsubishi_A7M2_proto.model>
+	<exporter>	1.6	</exporter>
+	<parent>	content/gameplay/events/aircraft/fighter/XAF708_Space_Fighter_proto/lods/XAF708_Space_Fighter_proto_lod1	</parent>
+	<extent>	2.0000	</extent>
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	content/gameplay/events/aircraft/fighter/XAF708_Space_Fighter_proto/XAF708_Space_Fighter_proto	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JAF707_Mitsubishi_A7M2_proto.model>
